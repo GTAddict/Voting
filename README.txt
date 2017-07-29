@@ -1,0 +1,1 @@
+This is an upload of a project I did more than 5 years back. Unforunately I lost the GUI bit of it (it was a separate project). The GUI still runs the command line version, so the processing bit is still here. I fortunately still have the exe, so that is provided here.
